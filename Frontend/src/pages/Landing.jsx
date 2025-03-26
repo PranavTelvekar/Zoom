@@ -3,6 +3,7 @@ import "../App.css"
 import {Link} from "react-router-dom"
 
 export default function Landing(){
+    const router = useNavigate();
     return(
         <div className="landingPageContainer">
             <nav>
@@ -10,7 +11,9 @@ export default function Landing(){
                     <h2>Hare Krishna</h2>
                 </div>
                 <div className="navList">
-                    <p>Join As Guest</p>
+                     <p onClick={() => {
+                        router("/123")
+                    }}>Join as Guest</p>
                     <p>Register</p>
                     <div role="button">
                         <p>Login</p>
