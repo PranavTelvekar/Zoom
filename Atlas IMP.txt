@@ -1,0 +1,18 @@
+1)For Zoom Project
+pranavtelvekar9401
+vr6qTD4m4xb7TBE2
+
+2)For Mini-Project
+pranavtelvekar9401
+zthms9qkknT04hg3
+
+3)Servify Epic
+epicengineers987
+wJTwCmkrpDXed00B
+
+4)Second Zoom Project
+
+pranavtelvekar
+GwqRXEhrehx2hnzI
+
+mongodb+srv://pranavtelvekar:<db_password>@cluster0.rwlo9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
