@@ -8,7 +8,7 @@ export default function Landing(){
         <div className="landingPageContainer">
             <nav>
                 <div className="navHeader">
-                    <h2>Hare Krishna</h2>
+                    <h2>Zoom Call</h2>
                 </div>
                 <div className="navList">
                      <p onClick={() => {
